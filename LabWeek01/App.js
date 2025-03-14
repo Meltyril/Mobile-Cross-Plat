@@ -4,7 +4,6 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <image></image>
       <Text>Darryl Kurniawan - 00000078767</Text>
       <StatusBar style="auto" />
     </View>
